@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const connection_url = "mongodb+srv://carorabe21:diGNKxyoliPj1etg@cluster0.02503af.mongodb.net/videos";
+const connection_url = "";
 
 module.exports.connect = () => {
   mongoose
